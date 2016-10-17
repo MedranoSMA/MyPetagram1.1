@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4ab3c3</color>
+    <color name="colorPrimaryDark">#38639f</color>
+    <color name="colorAccent">#ff4907</color>
+    <color name="primary">#4ab7c3</color>
+    <color name="primary_dark">#4ab3c3</color>
+    <color name="primary_light">#B2EBF2</color>
+    <color name="accent">#07a4ff</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="fondoCordinator">#E6E5E5</color>
+</resources>
